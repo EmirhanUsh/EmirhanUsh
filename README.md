@@ -25,3 +25,5 @@
 - **LinkedIn:** [https://www.linkedin.com/in/emirhan-ulanmi%C5%9F-700383400/]
 
 *"Kod yazmak sadece komut vermek değil, bir problemi en verimli şekilde çözme sanatıdır."*
+
+(Bu profil Emirhan tarafından geliştirilmektedir.)
